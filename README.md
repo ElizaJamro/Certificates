@@ -10,6 +10,7 @@ It reflects my continuous professional development in broad areas.
 - AgilePM_Foundation
 - IREB_Foundation
 - LCCI_English_for_Business
+- PROGRES_Cert_English B2
 
 ## Initiatives
 - BI_NGO
@@ -25,5 +26,5 @@ It reflects my continuous professional development in broad areas.
 - PyBI Analytics_Gdzie Python spotyka Power BI
 - SQL_Sever
 - Mastering_Data_Cleansing_Techniques_and_Best Practices
-- SAP_Basics_ Introduction_and_Navigation.pdf
+- SAP_Basics_ Introduction_and_Navigation
 - VBA
