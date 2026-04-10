@@ -17,6 +17,7 @@ It reflects my continuous professional development in broad areas.
 
 ## External training
 - INPROGRESS_BPMN_2_DAY_training_course
+- Power_BI_Intermediate_2DayTraining
 
 ## Online learning platforms
 - Python_for_Everybody_Specialization
